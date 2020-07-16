@@ -1,3 +1,5 @@
+from telegram import User
+
 Hello {}, Thanks for trying Hydra Music Bot!
 
 *How to use me*
