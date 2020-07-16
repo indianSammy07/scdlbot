@@ -1,6 +1,5 @@
-from telegram import User
 
-Hello {}, Thanks for trying Hydra Music Bot!
+Hello There, Thanks for trying Hydra Music Bot!
 
 *How to use me*
 Send or forward a text message containing links and I will:
